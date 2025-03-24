@@ -1,5 +1,9 @@
 ## Abstract
 Easily record your timeline through shortcuts app, visualize your time blocks in obsidian
+## Use in Obsidian
+```dataviewjs
+await dv.view("timeline", {pages: ""})
+```
 ## Steps for Creating the Shortcut
 1. Choose from List
 
