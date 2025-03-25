@@ -89,14 +89,7 @@ var group = "<div class='cd-schedule__events'><ul>";
 const taskColors = {
   'study': '#d05a63',
   'work': '#d05a63',
-  "entertainment": "#F5A623",
-  "social media": "#BD10E0",
-  "commute": "#F5A623",
-  "exercise": "#7ED321",
-  "hygiene": "#50E3C2",
-  "wake up": "#abd58e",
-  "sleep": "#9013FE",
-  "meals": "#D0021B"
+  "entertainment": "#F5A623"
 }
 
 var tid = (new Date()).getTime();
